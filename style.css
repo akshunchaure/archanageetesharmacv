@@ -33,6 +33,7 @@ body {
   width: 160px;
   height: 160px;
   border-radius: 50%;
+  object-fit: cover;
   border: 5px solid #c08552;
   box-shadow: 0 0 10px rgba(192, 133, 82, 0.5);
 }
